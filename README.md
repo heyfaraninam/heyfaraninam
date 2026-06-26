@@ -57,7 +57,7 @@ const faran = {
 
 <div align="center">
 
-### ✦ featured project
+### ✦ projects
 
 </div>
 
@@ -82,6 +82,28 @@ const faran = {
 ```
 
 [![Calculator Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Calculator)
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ✦  N O T E S                                         │
+│                                                         │
+│   A glassmorphic notes app with tags, pinning,          │
+│   and instant search.                                   │
+│   Built in pure HTML, CSS & JS — zero dependencies.    │
+│                                                         │
+│   · Write · Tag · Pin · Search                          │
+│   · Auto-saves to localStorage                          │
+│   · Filter by tag or pinned                             │
+│   · Delete confirmation modal                           │
+│   · Ctrl+N to create a new note                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+[![Notes Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Notes)
 
 </div>
 
