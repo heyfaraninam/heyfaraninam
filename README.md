@@ -105,6 +105,50 @@ const faran = {
 
 [![Notes Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Notes)
 
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ✦  W E A T H E R                                     │
+│                                                         │
+│   A glassmorphic weather app with real-time data        │
+│   and a 5-day forecast.                                 │
+│   Built in pure HTML, CSS & JS — OpenWeatherMap API.   │
+│                                                         │
+│   · Search any city or auto-detect location             │
+│   · Temperature · Humidity · Wind · Pressure            │
+│   · Sunrise & sunset in local city time                 │
+│   · 5-day forecast with visual temp bars                │
+│   · Timezone-aware display                              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+[![Weather Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Weather)
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ✦  T Y P I N G   S P E E D                           │
+│                                                         │
+│   A glassmorphic typing speed test with live WPM,       │
+│   detailed results, and persistent history.             │
+│   Built in pure HTML, CSS & JS — zero dependencies.    │
+│                                                         │
+│   · Live WPM · Accuracy · Countdown timer               │
+│   · Correct · Wrong · Total character stats             │
+│   · 15s · 30s · 60s · 120s modes                       │
+│   · History of last 20 runs saved locally               │
+│   · Tab to restart · Space to advance word              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+[![Typing Speed Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/typing-speed)
+
 </div>
 
 ---
