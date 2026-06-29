@@ -81,7 +81,7 @@ const faran = {
 └─────────────────────────────────────────────────────────┘
 ```
 
-[![Calculator Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Calculator)
+[![Calculator](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Calculator)
 
 <br/>
 
@@ -103,7 +103,7 @@ const faran = {
 └─────────────────────────────────────────────────────────┘
 ```
 
-[![Notes Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Notes)
+[![Notes](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Notes)
 
 <br/>
 
@@ -125,7 +125,7 @@ const faran = {
 └─────────────────────────────────────────────────────────┘
 ```
 
-[![Weather Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Weather)
+[![Weather](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/Weather)
 
 <br/>
 
@@ -147,7 +147,23 @@ const faran = {
 └─────────────────────────────────────────────────────────┘
 ```
 
-[![Typing Speed Repo](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/typing-speed)
+[![Typing Speed](https://img.shields.io/badge/View%20Repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam/typing-speed)
+
+<br/>
+
+---
+
+### ✦ and more
+
+| Project | Description |
+|---------|-------------|
+| [Password Generator](https://github.com/heyfaraninam/password-generator) | Cryptographic password generator with strength meter & history |
+| [Movies](https://github.com/heyfaraninam/movies) | Movie search with cast, trailers, filters & favorites |
+| [Calendar](https://github.com/heyfaraninam/calendar) | Calendar with month/week/day views, drag & drop & recurring events |
+
+<br/>
+
+[![See All Projects](https://img.shields.io/badge/See%20All%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyfaraninam?tab=repositories)
 
 </div>
 
